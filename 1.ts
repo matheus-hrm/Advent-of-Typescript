@@ -1,0 +1,1 @@
+type SantaFavoriteCookies = 'ginger-bread' | 'chocolate-chip'
